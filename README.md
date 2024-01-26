@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weiwei2694" alt="weiwei2694" /></a> </p>
 
+- ✨ Passionate about contributing to open source projects and collaborating with the community to drive innovation and growth. Open to exploring exciting opportunities to contribute to impactful projects.
+
+- 🎊 I am 16 years old, you can call me **Wei**
+
+- 👨‍💻 All of my projects are available at **Github**
+
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Node.js, React, Next.js, Prisma, etc.**
