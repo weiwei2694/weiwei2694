@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M Arya Priema Halawa</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Indonesia</h3>
+<h3 align="center">A passionate Web Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weiwei2694&label=Profile%20views&color=0e75b6&style=flat" alt="weiwei2694" /> </p>
 
@@ -7,7 +7,7 @@
 
 - ✨ Passionate about contributing to open source projects and collaborating with the community to drive innovation and growth. Open to exploring exciting opportunities to contribute to impactful projects.
 
-- 🎊 I am 16 years old, you can call me **Wei**
+- 🎊 I am 17 years old, you can call me **Wei**
 
 - 👨‍💻 All of my projects are available at **Github**
 
