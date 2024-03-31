@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **Github**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel, SQL**
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Node.js, React, Next.js, Prisma, etc.**
 
