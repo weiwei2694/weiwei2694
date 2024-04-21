@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at **Github**
 
-- 🌱 I’m currently learning **Laravel, SQL, Alpine.js**
-
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Node.js, React, Next.js, Prisma, etc.**
 
 - 📫 How to reach me **99aryaprima@gmail.com**
